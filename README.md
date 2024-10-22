@@ -8,10 +8,6 @@ the following information:
 4. Average age Per Country
 5. For New Zealand count of people per age ranges: 0 <= x < 10, 10 <= x < 20 etc.
 
-Requirements:
-- Java 11+
-- Commit solution to a new private repository in GitHub
-- Unit testing.
 
 Assumptions:
 - If there is a malformed object in the input json file it will be ignored.
